@@ -1,1 +1,2 @@
 (a)Pros: flexiability, timely Cons:less predictable, transfer difficulties
+(b)Scrum master is the manager of entire project, product owner is in charge of a particilar task
