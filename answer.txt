@@ -1,3 +1,4 @@
 (a)Pros: flexiability, timely Cons:less predictable, transfer difficulties
 (b)Scrum master is the manager of entire project, product owner is in charge of a particilar task
 (c)sprint meeting: the overrall on the sprint, things need to be done, daily meeting: update to the project, roadblocks, sprint review: things need to still be done, a review on the project
+(d)epic is more general part of the project, story is the things that need to be done, bugs are the detailed things need to be solved, task is the most fundamental things need to be done
